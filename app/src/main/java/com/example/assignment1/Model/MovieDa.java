@@ -15,7 +15,18 @@ class MovieDa implements IMovieDa {
         movies.add(new Movie("The Shawshank Redemption", "Drama",1994));
         movies.add(new Movie("Shindler's List", "Drama",1993));
         movies.add(new Movie("The GodFather Part 2", "Crime",1974));
-        movies.add(new Movie("Some Movie", "Crime",1994));
+        movies.add(new Movie("Toy Story 3", "Cartoon",2010));
+        movies.add(new Movie("Kingsman: The Secret Service", "Action",2015));
+        movies.add(new Movie("West Side Story", "Drama",1961));
+        movies.add(new Movie("Chinatown", "Thriller",1974));
+        movies.add(new Movie("Gladiator", "Adventure",2000));
+        movies.add(new Movie("Titanic", "Romance",1997));
+        movies.add(new Movie("Get Out", "Horror",2017));
+        movies.add(new Movie("Invictus", "Historical",2009));
+        movies.add(new Movie("Death at a Funeral", "Comedy",2010));
+        movies.add(new Movie("Furious 7", "Action",2015));
+        movies.add(new Movie("Fast 5", "Action",2011));
+        movies.add(new Movie("Fast 5", "Action",2011));
     }
 
     @Override
